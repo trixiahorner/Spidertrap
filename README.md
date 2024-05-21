@@ -4,7 +4,7 @@
 Trap web crawlers and spiders in an infinite set of dynamically generated webpages! The Spidertrap lab is designed to demonstrate how we can create a web of decoy pages that ensnare automated web crawlers and malicious actors. 
 
 ## Walkthrough
-We will be using a script file containing a list of webpage names to serve, one per line. If no file is provided, random links will be generated.
+The following lab is from Antisyphon Training's Active Defense and Cyber Deception course. We will be using a script file containing a list of webpage names to serve, one per line. If no file is provided, random links will be generated.
 <br>
 <br>
 ### Step 1: get IP of your Linux system and then cd into the proper directory
